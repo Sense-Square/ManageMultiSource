@@ -1,0 +1,4 @@
+sentinelsat
+netCDF4
+numpy
+cdsapi
